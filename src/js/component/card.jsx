@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
   return (
-    <div className="card" style={{ width: "18rem" }}>
+    <div className="col-sm-6 col-md-3 mb-4" style={{ width: "18rem" }}>
       <img src="https://via.placeholder.com/500x325" className="card-img-top" alt="placeholder" />
       <div className="card-body">
         <h5 className="card-title">Card title</h5>
