@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Jumbotron from "./Jumbotron";
 import Card from "./Card";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 // Crea el componente `Home` con los componentes correctamente capitalizados
 const Home = () => {
