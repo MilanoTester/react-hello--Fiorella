@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "./Navbar";
-import Jumbotron from "./Jumbotron";
-import Card from "./Card";
-import Footer from "./Footer";
+import Navbar from "./navbar";
+import Jumbotron from "./jumbotron";
+import Card from "./card";
+import Footer from "./footer";
 
 // Crea el componente `Home` con los componentes correctamente capitalizados
 const Home = () => {
